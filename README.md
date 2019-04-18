@@ -11,4 +11,4 @@ This is a simple Battleship Game with Menu made in C++
 
 * Once you are in the Dir, type ```gcc –o game Game.cpp```
 
-* Then type ```./game```
+* ```./game```
