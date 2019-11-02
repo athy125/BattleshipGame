@@ -1,6 +1,6 @@
 # Battleship Game
 
-This is a simple Battleship Game with Menu made in C++
+This is a simple Battleship Game with Menu made in C++. Made this simple game for fun thought of uploading it on Gituhb haha
 *******************************************************************
 
 **Running the Program**
